@@ -10,7 +10,7 @@ public class DemoController {
 	
 	@GetMapping("/welcome")
 	 public String getMsg() {
-		 return "wel come to Sameer It...Bengaluru...BTM 1ST Stage...!!";
+		 return "wel-come to Sameer...House......!!";
 	 }
 
 }
